@@ -13,7 +13,8 @@
 
 # Запуск сервера и приложения
 
-        npm install        
+        npm install  
+        node server.js
         npm start        
  
 
