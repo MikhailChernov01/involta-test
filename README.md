@@ -17,7 +17,7 @@
 1. Node.js
 2. WebSocket
 3. ReactJS
-4. Redux
+
  
 # Видео
 [![сервер на Node.js + ReactJS](https://i9.ytimg.com/vi/-kjKtdNsJWg/mq3.jpg?sqp=CNjU6PoF&rs=AOn4CLBK0SPMNbFS9JGfSuJ1VW4enupMLw)](https://youtube.com/watch?v=-kjKtdNsJWg)
@@ -27,7 +27,7 @@
         npm install  
         node server.js
 
-В новом терминале
+В новом терминале:
 
         npm start        
 
