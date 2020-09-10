@@ -17,5 +17,7 @@
         node server.js
         npm start        
  
+# Видео
+[![сервер на Node.js + ReactJS](https://i9.ytimg.com/vi/-kjKtdNsJWg/mq3.jpg?sqp=CNjU6PoF&rs=AOn4CLBK0SPMNbFS9JGfSuJ1VW4enupMLw)](https://youtube.com/watch?v=-kjKtdNsJWg)
 
 
