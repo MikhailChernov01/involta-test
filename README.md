@@ -26,6 +26,9 @@
 
         npm install  
         node server.js
+
+В новом терминале
+
         npm start        
 
 
