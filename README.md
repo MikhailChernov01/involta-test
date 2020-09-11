@@ -20,7 +20,7 @@
 
  
 # Видео
-[![сервер на Node.js + ReactJS](https://i9.ytimg.com/vi/-kjKtdNsJWg/mq3.jpg?sqp=CNjU6PoF&rs=AOn4CLBK0SPMNbFS9JGfSuJ1VW4enupMLw)](https://youtube.com/watch?v=-kjKtdNsJWg)
+[![сервер на Node.js + ReactJS](https://lh3.googleusercontent.com/z6Sl4j9zQ88oUKNy0G3PAMiVwy8DzQLh_ygyvBXv0zVNUZ_wQPN_n7EAR2By3dhoUpX7kTpaHjRPni1MHwKpaBJbpNqdEsHZsH4q)](https://youtube.com/watch?v=-kjKtdNsJWg)
 
 # Запуск сервера и приложения
 
